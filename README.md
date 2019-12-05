@@ -1,3 +1,4 @@
+为高版本dubbo适配的starter，具体文档看[这里](https://zhuanlan.zhihu.com/p/95589381)
 dubbo-spring-boot-starter [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.alibaba.spring.boot/dubbo-spring-boot-starter/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.alibaba.spring.boot/dubbo-spring-boot-starter)
 ===================================
 

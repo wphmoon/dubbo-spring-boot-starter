@@ -1,3 +1,4 @@
+为高版本dubbo适配的starter，具体文档看[这里](https://zhuanlan.zhihu.com/p/95589381)
 dubbo-spring-boot-starter
 ===================================
 
